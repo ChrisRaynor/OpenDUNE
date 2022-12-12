@@ -11,6 +11,7 @@ bool midi_init(void)
 
 void midi_uninit(void)
 {
+
 }
 
 void midi_send(uint32 data)
