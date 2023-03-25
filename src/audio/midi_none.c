@@ -11,7 +11,7 @@ bool midi_init(void)
 
 void midi_uninit(void)
 {
-
+ // test
 
 }
 
